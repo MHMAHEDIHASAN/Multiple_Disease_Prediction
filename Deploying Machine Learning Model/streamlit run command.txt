@@ -1,0 +1,1 @@
+streamlit run "C:\Users\UseR\Desktop\Deploying Machine Learning Model\multiple disease pred.py"
